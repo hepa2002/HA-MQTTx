@@ -1,5 +1,5 @@
 {
-  "name": "MQTT Explorer",
-  "url": "https://github.com/adamoutler/mqtt-explorer",
-  "maintainer": "Adam Outler <adamoutler@adamoutler.com>"
+  "name": "HA-MQTTx",
+  "url": "https://github.com/hepa2002/HA-MQTTx",
+  "maintainer": "hepa2002"
 }
