@@ -1,0 +1,16 @@
+
+{
+  "image": "emqx/mqttx-web:latest",
+  "name": "MQTTX Web",
+  "version": "rolling",
+  "slug": "mqttx-web",
+  "description": "MQTTX Web – always latest",
+  "arch": ["amd64", "armv7", "aarch64"],
+  "url": "https://hub.docker.com/r/emqx/mqttx-web",
+  "ingress": true,
+  "ingress_port": 80,
+  "panel_icon" : "mdi:network-pos",
+  "panel_title" : "MQTT Explorer",
+  "startup": "services",
+  "boot": "auto"
+}
